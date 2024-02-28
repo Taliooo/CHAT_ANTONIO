@@ -1,6 +1,6 @@
 # Chat_Talioo
 
-Conception et mise en œuvre une barre latérale intuitive pour améliorer la navigation et l'expérience utilisateur globale 
+Conception et mise en œuvre une barre latérale intuitive pour améliorer la navigation et l'expérience utilisateur globale avec Tailwind CSS
 
 ## Capture d'écran
 
