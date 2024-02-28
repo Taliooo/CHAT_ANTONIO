@@ -27,6 +27,11 @@ Suivez ces étapes pour installer et exécuter le projet localement.
     ```bash
     pnpm install
     ```
+4. Lancez le projet:
+
+    ```bash
+    pnpm run dev
+    ```
 
 ## Auteur
 
